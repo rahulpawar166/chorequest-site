@@ -6,6 +6,9 @@ Static informational pages for ChoreQuest, operated by Rahul Pawar.
 - `terms/index.html`: Terms of Service (version 2026-10-31).
 - `support/index.html`: Support, contact, and family help.
 - `index.html` and `styles.css`: navigation and shared presentation.
+- `assets/chorequest-logo.png`: the app's production crown/shield logo, also used as the favicon and touch icon.
+
+The website uses ChoreQuest's production purple (`#6c35e8`), lavender surfaces (`#f7f5ff`, `#eaddff`), gold accents (`#ffcc3d`), rounded system typography, and soft background glows. Brand assets are served locally; no external font or image services are used.
 
 Publish this repository's main branch root using GitHub Pages. No installation or build is needed. The repository contains website content only. There are no analytics scripts, forms, or external assets.
 
